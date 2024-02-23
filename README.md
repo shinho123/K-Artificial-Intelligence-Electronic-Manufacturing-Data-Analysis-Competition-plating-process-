@@ -1,7 +1,7 @@
 # K-Artificial-Intelligence-Electronic-Manufacturing-Data-Analysis-Competition-plating-process-
 2022년 k-인공지능 제조데이터 분석 경진대회 - 도금욕 설비 데이터를 이용한 품질 이상 탐지 및 진단
 
-# 프로젝트 수행기간 : 2022.10.10 ~ 2022.10.21
+# 프로젝트 수행기간 : 2022.09.10 ~ 2022.10.21
 # 역할 : 코드 작업, 모델 개발, 디버깅 작업 수행
 
 # 분석 동기 :
