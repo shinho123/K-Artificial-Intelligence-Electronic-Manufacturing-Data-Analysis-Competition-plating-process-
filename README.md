@@ -102,3 +102,6 @@
   - pH (전해액의 pH농도)
   - Voltage (전압 측정값)
 * 도금공정은 다양한 분야에서 사용되기 때문에 해당 데이터셋의 모델을 조금만 변형하면 다양한 공정에서도 품질 관리를 쉽게 할 수 있음
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinho123&show_icons=true&theme=radical)
