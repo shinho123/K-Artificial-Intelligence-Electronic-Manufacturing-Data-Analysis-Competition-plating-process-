@@ -25,7 +25,7 @@
 
 ![image](https://github.com/shinho123/K-Artificial-Intelligence-Electronic-Manufacturing-Data-Analysis-Competition-plating-process-/assets/105840783/b84ff7ab-c5f3-4349-9ae6-729ce779bd68)
 
-* 도금욜 설비 데이터에서는 도금 중에서도 전기도금을 이용
+* 도금욕 설비에서는 도금 중에서도 전기도금을 이용
 * 전기도금이란 전착의 원리를 이용하여 제품의 표면에 금속의 피막을 부여
 * 도금욕이란 도금액이 도금조 내에 들어 있는 상태를 의미하며 실제 도금이 진행되는 작업
 
